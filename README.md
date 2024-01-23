@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola 👋, Mi nombre es Luis Mesajil
+
+## ¿Quién soy?
+
+Soy un estudiante universitario con experiencia en proyectos full-stack, especializado en desarrollo frontend y backend usando tecnologías como React.js, HTML, CSS, JavaScript, Node.js y Express. He trabajado en una aplicación de marketplace de gimnasio, implementando características como funcionalidades de compra de productos y servicios de clases, rutas API RESTful, integración de pasarela de pago y notificaciones automáticas por correo electrónico. También he desarrollado un chatbot y he utilizado Material UI para el desarrollo de componentes. Además, tengo experiencia en programación VBA/Excel e ingeniería de aprendizaje automático.
 
 <!--
 **mesajil/mesajil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
