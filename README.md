@@ -1,4 +1,4 @@
-### Luis Mesajil (lhdev)
+### Luis Mesajil
 
 Full Stack Engineer prioritizing high-quality, scalable products with a focus on user experience.
 
