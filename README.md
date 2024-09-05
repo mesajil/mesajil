@@ -21,7 +21,7 @@ Backend developer prioritizing high-quality, scalable products with a focus on u
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,py,c,cpp,nodejs,express,react,mysql,postgres,mongodb,postman,docker,vscode&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,py,c,cpp,nodejs,vite,express,react,mysql,postgres,mongodb,postman,docker,vscode&perline=14"/>
   </a>
 </p>
 
