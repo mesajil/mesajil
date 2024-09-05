@@ -4,7 +4,7 @@ Backend developer prioritizing high-quality, scalable products with a focus on u
 
 - 🔭 I’m currently working on Node.js and Python.
 - 🌱 I’m currently learning Python and Docker.
-- **👯 I’m looking to collaborate on Personal Projects and Startup Jobs.**
+- **👯 I’m looking to collaborate on Startup Jobs and Personal Projects.**
 - 📫 How to reach me: lhmesajil@gmail.com
 - 😄 Pronouns: He/Him
 
