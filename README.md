@@ -1,3 +1,5 @@
+### Hey 👋, I'm Rick
+
 Full stack developer prioritizing high-quality, scalable products with a focus on user experience.
 
 ### ⚙️ &nbsp;GitHub Analytics
