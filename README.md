@@ -1,4 +1,4 @@
-### Hey 👋, I'm Rick
+### Hey 👋, I'm Luis
 
 Full stack developer prioritizing high-quality, scalable products with a focus on user experience.
 
