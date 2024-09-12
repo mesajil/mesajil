@@ -1,8 +1,8 @@
-**Hi, I'm Luis**, FullStack developer prioritizing high-quality, scalable products with a focus on user experience.
+FullStack developer prioritizing high-quality, scalable products with a focus on user experience.
 
 - 🔭 I’m currently working on Node.js and Python.
 - 🌱 I’m currently learning Python and Docker.
-- 👯 I’m looking to collaborate on **Startup Jobs** and **Personal Projects**.
+- 👯 I’m looking to collaborate on Startup Jobs and Personal Projects.
 - 📫 How to reach me: lhmesajil@gmail.com
 - 😄 Pronouns: He/Him
 
