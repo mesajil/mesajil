@@ -1,11 +1,5 @@
 FullStack developer prioritizing high-quality, scalable products with a focus on user experience.
 
-- 🔭 I’m currently working on Node.js and Python.
-- 🌱 I’m currently learning Python and Docker.
-- 👯 I’m looking to collaborate on Startup Jobs and Personal Projects.
-- 📫 How to reach me: lhmesajil@gmail.com
-- 😄 Pronouns: He/Him
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -24,12 +18,12 @@ FullStack developer prioritizing high-quality, scalable products with a focus on
 </p>
 
 <!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Node.js and Python.
+- 🌱 I’m currently learning Python and Docker
+- 👯 I’m looking to collaborate on Startup Jobs and Personal Projects.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 - -->
