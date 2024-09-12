@@ -6,8 +6,8 @@ Full stack developer prioritizing high-quality, scalable products with a focus o
 
 <p align="center">
 <a href="https://github.com/mesajil">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mesajil&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mesajil&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mesajil&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
 </a>
 </p>
 
