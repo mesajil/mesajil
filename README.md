@@ -1,4 +1,4 @@
-FullStack developer prioritizing high-quality, scalable products with a focus on user experience.
+Full stack developer prioritizing high-quality, scalable products with a focus on user experience.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
